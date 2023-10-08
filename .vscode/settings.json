@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\dps_calc\\Cargo.toml"
+    ]
+}
